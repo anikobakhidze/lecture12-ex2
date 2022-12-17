@@ -1,1 +1,1 @@
-# lecture12-ex2-6
+# lecture12-ex2
